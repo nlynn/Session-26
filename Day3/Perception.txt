@@ -1,0 +1,14 @@
+
+Slides: 
+https://drive.google.com/drive/folders/1xGLbcbLfheiy-uKdP_6MBnBFFyCDWybo?usp=drive_link
+
+
+
+Paul Rosen:
+I had a question about providing more accessibility resources. Here are some places to go. None is a true one-stop shop, but WCAG is probably the best single option.
+
+WCAG is the best source of standards for making visual content accessible (https://www.w3.org/WAI/standards-guidelines/wcag/). It reads like standards, though.
+This (https://www.sigaccess.org/) is the top conference focused on accessibility in computing broadly.
+This (https://accessviz.github.io/) is the accessibility visualization workshop at IEEE VIS (top conference in my field).
+Frank Elavsky (https://www.frank.computer/) is one of my favorite researchers in the space.
+I found this new book (https://link.springer.com/book/10.1007/978-3-032-07186-6) when searching. I haven't looked at it before, so I can't speak to the content or the quality. Looks like it focuses on low vision and blind individuals.
